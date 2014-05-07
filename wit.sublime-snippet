@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[within("${1:locator}") do
+    $0
+end]]></content>
+    <tabTrigger>wit</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>within("locator") do block</description>
+</snippet>

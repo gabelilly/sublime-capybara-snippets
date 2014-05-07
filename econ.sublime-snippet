@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[expect(page).to have_content"${1:content_string}"]]></content>
+    <tabTrigger>econ</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>expect page to have a string of content</description>
+</snippet>

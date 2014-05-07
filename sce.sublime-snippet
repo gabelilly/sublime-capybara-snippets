@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[scenario "${1:description_of_test}" do
+    $0
+end]]></content>
+    <tabTrigger>sce</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>scenario "description_of_test" do</description>
+</snippet>

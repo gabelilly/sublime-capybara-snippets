@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[expect(page).to have_css"${1:css_locator}"]]></content>
+    <tabTrigger>ecss</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>expect page to have the following css locator</description>
+</snippet>

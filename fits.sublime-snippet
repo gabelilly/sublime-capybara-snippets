@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[find("${1:css_locator}", :text => "${2:text_content}").set]]></content>
+    <tabTrigger>fits</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>find(".css_locator", with => "text_content").set</description>
+</snippet>

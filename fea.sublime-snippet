@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[feature "${1:section_of_site}" do
+
+    before do
+        ${2:setup}
+    end
+
+    scenario "${3:description_of_test}" do
+        $0
+    end
+
+end]]></content>
+    <tabTrigger>fea</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>feature, before, and scenario block</description>
+</snippet>
