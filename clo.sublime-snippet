@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[click_on "${1:value}"]]></content>
+    <content><![CDATA[click_on("${1:value}")]]></content>
     <tabTrigger>clo</tabTrigger>
     <scope>source.ruby</scope>
     <description>click_on "value"</description>
